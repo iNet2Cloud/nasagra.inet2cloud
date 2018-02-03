@@ -12,6 +12,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           Building Education Market Place only for Competitive Exams...
+         <h2> NTSE - Class X </h2>
         </p>
       </div>
     );
